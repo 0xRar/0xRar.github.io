@@ -30,26 +30,23 @@ before i start doing anything else i decided to check out the `/robots.txt` , i 
 
 
 - ### /robots.txt:
-`
 pls no look
 
 User-Agent: regular_cowboys
 
 Disallow: /sad.eml
-`
 
 we see a `User-Agent` Header but thats just a rabbit hole to try and send requests<br> as `regular_cowboys`, but we also see an email file named `sad.eml` and when we open it with a text editor or outlook we get:
 
 - ### /sad.eml
-`
-Everyone says 'yeee hawwwww'  
-  
+Everyone says 'yeee hawwwww'
+
 but never 'hawwwww yeee'  
   
 :'(  
   
 thats why a 'sadcowboy' is only allowed to go into our website
-`
+
 
 so now we have a possible username which is `sadcowboy`, to see if the login form has flaws in<br> errors like telling us exactly if the password is wrong or the username, by entering the username `sadcowboy` and a random password i see that we get<br> `Incorrect password` and when i try with another username i get `Incorrect username or password` so now i confirmed the username is correct, and<br> the hint for the password was not clear but i believe it was the `:'(` also when trying `'` we get an<br> `Internal Server Error` so now we know its a sql injection.
 
