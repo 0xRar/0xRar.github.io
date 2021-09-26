@@ -20,12 +20,11 @@ tags:
 ## Description: 
 <h4>I heard this is the coolest site for cowboys and can you find a way in?</h4>
 
----
 
 ![Capture 1](https://user-images.githubusercontent.com/33517160/134733781-d93f214b-a3f5-41d6-928a-122782eb34ee.png)
 
 First thing we get greeted with this normal login form nothing special about it,<br>
-before i start doing anything else i decided to check out the `/robots.txt` ,<br> i know im on the right track because of the hint provided by the dev
+before i start doing anything else i decided to check out the `/robots.txt` , i know im on<br> the right track because of the hint provided by the dev
 
 [Hint Link]([https://www.youtube.com/watch?v=fn3KWM1kuAw](https://www.youtube.com/watch?v=fn3KWM1kuAw)).
 
