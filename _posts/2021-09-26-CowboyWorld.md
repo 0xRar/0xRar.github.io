@@ -34,6 +34,7 @@ before i start doing anything else i decided to check out the `/robots.txt` , i 
 pls no look
 
 User-Agent: regular_cowboys
+
 Disallow: /sad.eml
 ```
 
