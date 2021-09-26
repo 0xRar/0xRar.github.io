@@ -30,15 +30,21 @@ before i start doing anything else i decided to check out the `/robots.txt` , i 
 
 
 - ### /robots.txt:
+
 pls no look
 
 User-Agent: regular_cowboys
 
 Disallow: /sad.eml
 
+<br>
+
 we see a `User-Agent` Header but thats just a rabbit hole to try and send requests<br> as `regular_cowboys`, but we also see an email file named `sad.eml` and when we open it with a text editor or outlook we get:
 
+<br>
+
 - ### /sad.eml
+
 Everyone says 'yeee hawwwww'
 
 but never 'hawwwww yeee'  
