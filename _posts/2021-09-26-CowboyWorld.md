@@ -25,7 +25,10 @@ tags:
 ![Capture 1](https://user-images.githubusercontent.com/33517160/134733781-d93f214b-a3f5-41d6-928a-122782eb34ee.png)
 
 <h4>First thing we get greeted with this normal login form nothing special about it,<br>
-before i start doing anything else i decided to check out the `/robots.txt` ,<br> i know im on the right track because of the hint provided by the dev [Hint Link]([https://www.youtube.com/watch?v=fn3KWM1kuAw](https://www.youtube.com/watch?v=fn3KWM1kuAw)).</h4>
+before i start doing anything else i decided to check out the `/robots.txt` ,<br> i know im on the right track because of the hint provided by the dev</h4> 
+
+[Hint Link]([https://www.youtube.com/watch?v=fn3KWM1kuAw](https://www.youtube.com/watch?v=fn3KWM1kuAw)).
+
 
 - ### /robots.txt:
 ```
@@ -48,7 +51,7 @@ but never 'hawwwww yeee'
 thats why a 'sadcowboy' is only allowed to go into our website
 ```
 
-<h4>so now we have a possible username which is `sadcowboy`, to see if the login form has flaws in<br> errors like telling us exactly if the password is wrong or the username, by entering the username `sadcowboy` and a random password i see that we get<br> `Incorrect password` and when i try with another username i get `Incorrect username or password` so now i confirmed the username is correct, and<br> the hint for the password was not clear but i believe it was the `:'(` also when trying `'` we get an<br> `Internal Server Error` so now we know its a sql injection.</h4>
+<h4>so now we have a possible username which is `sadcowboy`, to see if the login form has flaws in<br> errors like telling us exactly if the password is wrong or the username, by entering the username `sadcowboy` and a random password i see that we get<br> `Incorrect password` and when i try with another username i get `Incorrect username or password` so now i confirmed the username is correct, and<br> the hint for the password was not clear but i believe it was the `:'(` also when trying `'` we get an<br> `Internal Server Error` so now we know its a sql injection.
 
 so i tried couple sqli login bypass payloads that contains single quotes using the burp repeater trying out payloads in the browser will give an `Internal Server Error` and the payload `'+or+'1'='1` worked with me.
 </h4>
