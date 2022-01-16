@@ -6,6 +6,7 @@ description: Analysis of a phishing link being shared in discord currently
 tags:
 - DFIR
 - Phishing
+- Analysis
 ---
 
 # Analysis of (http[:]//disccrdapp [.]com/newyears) Phishing Link
