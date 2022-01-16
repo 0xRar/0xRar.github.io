@@ -42,7 +42,7 @@ creds via discord, but thats just a possibility.
 - Using the exact same embed photo for links as the real discord.
 
 ## Scans & Screenshots:
-### Scam link homepage:<br>
+### Phish link homepage:<br>
 <img height="300px" width="500px" src="https://user-images.githubusercontent.com/33517160/149651330-82ce903d-80ab-4c16-b6e0-3955575ea447.png">
 
 ----------
