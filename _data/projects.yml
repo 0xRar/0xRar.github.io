@@ -2,3 +2,9 @@
   image: https://user-images.githubusercontent.com/33517160/136131615-a79ee8f8-2872-4151-b722-86a06c8df88e.png
   link: https://thectfdude.github.io/TCD
   description: A Cyber Security resources website.
+  
+- name: VT-CLI
+  image: https://user-images.githubusercontent.com/33517160/204376807-b954b062-96b7-47da-8efe-cd5f8b643909.png
+  link: https://github.com/0xRar/VT-CLI
+  description:  A virustotal command line script to scan/analyze suspicious files and urls. 
+  
