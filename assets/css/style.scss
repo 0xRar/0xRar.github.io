@@ -82,6 +82,10 @@ a.navbar-item.is-active {
         min-width: 25vmax;
         margin: 0.5rem;
     }
+
+    p {
+        font-size: 1.4rem;
+    }
 }
 
 #contact {
@@ -319,19 +323,42 @@ a.navbar-item.is-active {
     .content {
         ol, ul, blockquote {
             display: inline-block;
+            font-size: 1.4rem;
         }
         hr{
             background-color: grey;
         }
         img, iframe {
             max-width: calc(100% - 25vw);
+            border: 3px solid black; 
+            border-radius: 5px;
             margin: 0.25rem auto;
+            
             @media (max-width: 768px) {
                 max-width: calc(100% - 5vw);
             }
         }
         ul, ol {
             display: inline-block;
+        }
+
+        p {
+            font-size: 1.5rem;
+        }
+
+        pre {
+           background-color: #36454F;
+           border: 3px solid black;
+           border-radius: 5px;
+        }
+
+        code {
+            color: white;
+            font-size: 1.4rem;
+        }
+
+        .language-plaintext {
+            color: red; 
         }
     }
 
