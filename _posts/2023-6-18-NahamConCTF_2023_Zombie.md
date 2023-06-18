@@ -12,7 +12,10 @@ tags:
 NahamCon CTF 2023 ! it was a great CTF where we were fighting for the 5th place for couple of hours, but
 ended getting tied with the 6th place, and got 7th out of 2518 teams.
 
+<br>
+
 ![place-image](https://github.com/0xRar/0xrar.github.io/assets/33517160/40a8d8f7-64ef-457e-8284-ced7a61184c2)
+
 
 ---
 
