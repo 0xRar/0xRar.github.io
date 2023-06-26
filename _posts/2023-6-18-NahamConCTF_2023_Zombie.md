@@ -96,6 +96,7 @@ user@zombie:/proc/11/fd$ cat *
 flag{6387e800943b0b468c2622ff858bf744}
 ```
 <br>
+
 References:
 - [https://docs.kernel.org/filesystems/proc.html](https://docs.kernel.org/filesystems/proc.html)
 - [https://en.wikipedia.org/wiki/File_descriptor](https://en.wikipedia.org/wiki/File_descriptor) 
