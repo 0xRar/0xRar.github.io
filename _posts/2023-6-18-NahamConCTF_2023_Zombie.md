@@ -103,5 +103,5 @@ References:
 - [https://www.ibm.com/docs/en/aix/7.2?topic=n-nohup-command](https://www.ibm.com/docs/en/aix/7.2?topic=n-nohup-command)
 
 ## Flag: `flag{6387e800943b0b468c2622ff858bf744}` 
-Thank You For Reading ?
+Thank You For Reading ❤
 
