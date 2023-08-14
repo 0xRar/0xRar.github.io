@@ -2,7 +2,7 @@
 title: Writeup for Zombie from NahamCon CTF 2023 
 layout: post
 post-image: "https://github.com/0xRar/0xrar.github.io/assets/33517160/bb1f6efb-f058-488f-810e-4074f6e294e7"
-description: 
+description: NahamCon CTF 2023 Zombie Writeup
 tags:
 - Writeups
 - CTF
