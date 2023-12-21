@@ -1,5 +1,4 @@
 # WhatATheme
-markdown: kramdown
 
 # URL of the Site
 url:
@@ -7,7 +6,7 @@ url:
 baseurl:
 
 # Title of the Site
-title: rar@RarSec:~#
+title: 0xRar
 # Description of the Site
 description: Welcome to my personal website
 # URL of Image of the Site
@@ -26,7 +25,7 @@ heroimage: https://user-images.githubusercontent.com/33517160/213177746-8bae3e3a
 email: RarDev@protonmail.com
 twitter_username: fcv9_q
 instagram_username: fcv9
-linkedin_username: isa-ebrahim-33b0b2219
+linkedin_username: isa-ebrahim
 github_username: 0xRar
 reddit_username:
 behance_username:
@@ -52,6 +51,13 @@ author-about: My name is Isa Ebrahim, also known as 0xRar,
 
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: https://github.com/0xRar
+
+markdown: kramdown
+
+# kramdown:
+#   syntax_highlighter: rouge
+#   input: GFM
+
 
 # SASS
 sass:
